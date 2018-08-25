@@ -25,6 +25,10 @@ h2 {
     margin: 0 auto;
 }
 
+.paragraph1 {
+    font-style: italic;
+}
+
 #main-bio, #contact-info, #bio-image {
     float: left;
 }
