@@ -41,6 +41,15 @@ h2 {
 #contact-info {
     width: 30%;
 }
+#main-footer {
+    background-color: #333333;
+    text-align: center;
+    color: #eee;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+}
 
 a {
     color: #d21034;
